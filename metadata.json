@@ -1,0 +1,8 @@
+{
+  "name": "Remix API Fecher V4 - Cyber Apex HUD",
+  "description": "Cyber Purple \u0026 Black Apex HUD with real-time lottery prediction engine, plasma reactors, interactive electric lightning canvas, and dual viewport mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
